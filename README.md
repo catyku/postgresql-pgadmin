@@ -1,6 +1,7 @@
 # Postgresql & PgAdmin powered by compose
 docker-compose ,source from khezen/compose-postgres
 remove postgresql External port 5432
+*[more information]https://blog.yslifes.com/archives/2834
 
 ## Requirements:
 * docker >= 17.12.0+
